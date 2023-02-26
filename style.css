@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(#F6D365,#FDA085) ;
+}
+.heading{
+    text-align: center;
+    background-color: gray;
+    color: #F6D365;
+    border: 1px solid black;
+    margin-top: 0.5rem;
+}
+
+p{
+    background-color:rgb(184, 176, 176);
+    padding:0.5rem;
+    /* border: 1px solid; */
+    margin-bottom: 0rem;
+}
+
+img{
+    width: -webkit-fill-available;
+    /* border: 1px solid black; */
+}
+
+.button{
+    font-size: larger;
+    border: 1px solid;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    background-color: #F6D365;
+    text-decoration:none;
+    border-radius: 20rem;
+}
+
+a {
+    text-decoration: none;
+}
